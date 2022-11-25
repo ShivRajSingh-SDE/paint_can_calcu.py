@@ -12,4 +12,4 @@ def paint_calc(height,width,cover):
   print(f"you need {can_need}")
 
 
-paint_calc(test_h, test_w, cover)a
+paint_calc(test_h, test_w, cover)
